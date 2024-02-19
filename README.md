@@ -1,5 +1,6 @@
 # IMDb-s-Top-50-Movies-Webscraping-Project-
-![image](https://github.com/Arash-Kamboj/IMDB-Top-50-Movies-Webscraping-Project/assets/156613048/57e2534f-bba3-4880-ba7d-3bf5271f2375)
+
+![image](https://github.com/Arash-Kamboj/IMDB-Top-50-Movies-Webscraping-Project/assets/156613048/58643595-0c67-4ce9-8f65-a34c8610c390)
 
 
 **Overview**
