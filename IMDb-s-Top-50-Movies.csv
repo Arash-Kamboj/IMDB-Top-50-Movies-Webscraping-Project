@@ -1,0 +1,51 @@
+﻿ranking;name;year;imdb_rating;votes;genre
+1;The Shawshank Redemption;1994;9.3;27,91,397;Drama
+2;The Godfather;1972;9.2;19,44,229;Crime, Drama
+3;The Dark Knight;2008;9;27,71,569;Action, Crime, Drama
+4;Schindler's List;1993;9;14,03,821;Biography, Drama, History
+5;The Godfather Part II;1974;9;13,20,870;Crime, Drama
+6;The Lord of the Rings: The Return of the King;2003;9;19,11,924;Action, Adventure, Drama
+7;12 Angry Men;1957;9;8,29,179;Crime, Drama
+8;Pulp Fiction;1994;8.9;21,41,402;Crime, Drama
+9;Spider-Man: Across the Spider-Verse;2023;8.8;2,43,641;Animation, Action, Adventure
+10;Inception;2010;8.8;24,60,643;Action, Adventure, Sci-Fi
+11;The Lord of the Rings: The Fellowship of the Ring;2001;8.8;19,40,118;Action, Adventure, Drama
+12;Fight Club;1999;8.8;22,25,606;Drama
+13;Forrest Gump;1994;8.8;21,71,468;Drama, Romance
+14;Il buono, il brutto, il cattivo;1966;8.8;7,87,484;Adventure, Western
+15;The Lord of the Rings: The Two Towers;2002;8.8;17,25,289;Action, Adventure, Drama
+16;Jai Bhim;2021;8.8;2,09,719;Crime, Drama, Mystery
+17;Interstellar;2014;8.7;19,78,037;Adventure, Drama, Sci-Fi
+18;Goodfellas;1990;8.7;12,11,198;Biography, Crime, Drama
+19;The Matrix;1999;8.7;19,85,257;Action, Sci-Fi
+20;One Flew Over the Cuckoo's Nest;1975;8.7;10,41,219;Drama
+21;Star Wars: Episode V - The Empire Strikes Back;1980;8.7;13,38,664;Action, Adventure, Fantasy
+22;Oppenheimer;2023;8.6;3,99,297;Biography, Drama, History
+23;Se7en;1995;8.6;17,27,769;Crime, Drama, Mystery
+24;The Silence of the Lambs;1991;8.6;14,89,061;Crime, Drama, Thriller
+25;The Green Mile;1999;8.6;13,56,698;Crime, Drama, Fantasy
+26;Saving Private Ryan;1998;8.6;14,45,823;Drama, War
+27;Terminator 2: Judgment Day;1991;8.6;11,38,887;Action, Sci-Fi
+28;Star Wars;1977;8.6;14,10,486;Action, Adventure, Fantasy
+29;Sen to Chihiro no kamikakushi;2001;8.6;8,06,573;Animation, Adventure, Family
+30;Cidade de Deus;2002;8.6;7,79,885;Crime, Drama
+31;La vita Ã¨ bella;1997;8.6;7,20,584;Comedy, Drama, Romance
+32;It's a Wonderful Life;1946;8.6;4,77,856;Drama, Family, Fantasy
+33;Shichinin no samurai;1954;8.6;3,57,156;Action, Drama
+34;Seppuku;1962;8.6;63,281;Action, Drama, Mystery
+35;Gladiator;2000;8.5;15,58,002;Action, Adventure, Drama
+36;The Prestige;2006;8.5;13,91,963;Drama, Mystery, Sci-Fi
+37;The Departed;2006;8.5;13,76,163;Crime, Drama, Thriller
+38;Back to the Future;1985;8.5;12,59,666;Adventure, Comedy, Sci-Fi
+39;Django Unchained;2012;8.5;16,29,532;Drama, Western
+40;Gisaengchung;2019;8.5;8,82,754;Drama, Thriller
+41;Alien;1979;8.5;9,16,536;Horror, Sci-Fi
+42;Whiplash;2014;8.5;9,27,771;Drama, Music
+43;LÃ©on;1994;8.5;12,05,981;Action, Crime, Drama
+44;The Usual Suspects;1995;8.5;11,16,458;Crime, Drama, Mystery
+45;The Pianist;2002;8.5;8,74,314;Biography, Drama, Music
+46;The Lion King;1994;8.5;11,02,361;Animation, Adventure, Drama
+47;American History X;1998;8.5;11,55,786;Crime, Drama
+48;Psycho;1960;8.5;6,96,715;Horror, Mystery, Thriller
+49;The Intouchables;2011;8.5;8,95,241;Biography, Comedy, Drama
+50;Casablanca;1942;8.5;5,90,567;Drama, Romance, War
