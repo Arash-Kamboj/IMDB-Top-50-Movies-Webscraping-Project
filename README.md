@@ -19,7 +19,9 @@ The Project provided me a hands-on learning experience and encouraged me to appl
 - String Manipulation
 - String Search and Matching
 - Data Analysis and Classification
-
+------------------------------------------------------------------------------------------------------------------------------------------
+**Skills I used in this project:**
+-Importing request library
 -----------------------------------------------------------------------------------------------------------------------------------------------
 **Context**
 The task is to creating a powerful movie analysis and review aggregator for a media company. The application should allow users to retrieve and display IMDb's Top 50 Moviesµ. Implementing web scraping using Python's requests and BeautifulSoup libraries to gather information about the top 50 rated movies on IMDb and then perform additional operations on this data. Sort the movie data by IMDb ratings in descending order. Create a list containing the top 5 movies with the highest IMDb ratings. Iterate through the top 5 movies and print their details, including movie name, IMDb rating, release year, votes, and genre. 
